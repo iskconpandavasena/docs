@@ -1,14 +1,14 @@
-# Template for READMEs
-
-Live site at: example.com <- Update this
-
-# Introduction
+# Introduction to the README Template
 
 Hare Krishna! Welcome to the PS README template. Please fill out this template on how your project is/was developed and deployed to create documentation. The storage of information in one place is very useful and also ensures all the information is present for the future.
 
 Please feel free to delete any sections you do not need (including this one) or to add any new sections. Do not hesitate to contact the current maintainer (<dhaval@soneji.xyz>) if you have any questions or queries. Please also feel free to submit a Pull Request to improve this template.
 
-This template should be used to create the `README.md` file in your project repository.
+This template should be used to create the `README.md` file in your project repository. The file properly starts below! ⬇️
+
+# Project Name
+
+Live site at: example.com <- Update this
 
 # Table of Contents 📚
 
